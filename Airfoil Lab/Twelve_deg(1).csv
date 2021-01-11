@@ -1,0 +1,16 @@
+Variable,Manometer Reading (mm)
+P_atm,108
+P_tot,134
+P_static,112
+LWR x/c = 1,134
+LWR x/c = 4.5,124
+LWR x/c = 11,114
+LWR x/c = 20,110
+LWR x/c = 32.1,108
+LWR x/c = 44,108
+UPPER x/c = 2,60
+UPPER x/c = 7.5,68
+UPPER x/c = 14.5,78
+UPPER x/c = 26,94
+UPPER x/c = 38,100
+UPPER x/c = 50,106
